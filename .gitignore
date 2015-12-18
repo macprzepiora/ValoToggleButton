@@ -1,0 +1,9 @@
+# ignore maven target folder
+**/target/
+
+# ignore compiled widgetsets
+**/VAADIN/widgetsets/
+
+# ignore project files
+**/.idea/
+**/*.iml
